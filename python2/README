@@ -1,0 +1,18 @@
+A collection of Jupyter Notebooks
+
+Notes:
+
+1. All notebooks were retrieved via links on the "A gallery of interesting Jupyter Notebooks" web page: https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks; 
+2. All notebooks were tested with Python 2.7.14 (python/2.7.14-anaconda) on Super Mike 2.
+
+List of notebooks:
+
+dct.ipynb					An explanation and illustration of the math behind the Discrete Cosine Transform;                   
+DifferentDataFormats.ipynb  			Introduction to different data formats, taken from the python_for_geosciences course;
+Matplotlib.ipynb       				Introduction to Matplotlib, taken from the python_for_geosciences course;
+neural_cue_combination.ipynb  			Cue Combination with Neural Populations by Will Adler;
+News_Categorization_MNB 10-oct-2017.ipynb	News Categorization using Multinomial Naive Bayes;  
+NumPyarray.ipynb 				Introduction to NumPy arrays, taken from the python_for_geosciences course;                          
+reinhart-rogoff.ipynb   			Replication of the highly-contentious analysis of economic growth by Reinhart and Rogoff;  
+TheSoundOfHydrogen.ipynb 			Visualizing and listening to the quantum-mechanical spectrum of Hydrogen;
+TimeSeriesPandas.ipynb				Introduction to time series analysis with Panda, taken from the python_for_geosciences course;
